@@ -1,0 +1,17 @@
+{
+	"name": "FileLocation",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\91920\\Desktop\\CRM-PROJECT",
+			"userId": "91920",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIwZWU0YWQ0Ny02NmViLTQzZDUtYWU0Ni03NDgwMjg5MWU0ZmUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "onPremToAzureRT",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
