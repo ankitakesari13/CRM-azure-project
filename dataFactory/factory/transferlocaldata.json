@@ -1,0 +1,9 @@
+{
+	"name": "transferlocaldata",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0933708f-2874-4ce7-bbda-2508d7423e34",
+		"tenantId": "3db41d15-1ec9-494f-903a-71114cbdb916"
+	}
+}
