@@ -1,0 +1,6 @@
+{
+	"name": "onPremToAzureRT",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
