@@ -815,7 +815,7 @@
 			"apiVersion": "2018-06-01",
 			"properties": {
 				"annotations": [],
-				"runtimeState": "Started",
+				"runtimeState": "Stopped",
 				"pipelines": [
 					{
 						"pipelineReference": {
@@ -830,7 +830,8 @@
 					"recurrence": {
 						"frequency": "Hour",
 						"interval": 15,
-						"startTime": "2026-04-01T21:44:00",
+						"startTime": "2026-04-01T00:00:00",
+						"endTime": "2026-04-01T16:16:20",
 						"timeZone": "India Standard Time"
 					}
 				}
